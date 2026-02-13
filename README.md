@@ -6,7 +6,7 @@
 
 # Hi 👋, I'm Ethem Beldagli
 
-### A passionate developer from [Your Location]
+### A passionate developer from Cambridge
 
 <img src="https://github.com/ethembeldagli.png" alt="Ethem Beldagli" width="150" height="150" style="border-radius: 50%;" />
 
