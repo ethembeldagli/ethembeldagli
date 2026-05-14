@@ -8,6 +8,8 @@
 
 ### A passionate developer from Cambridge
 
+### Also started making minecraft mods. 
+
 <img src="https://github.com/ethembeldagli.png" alt="Ethem Beldagli" width="150" height="150" style="border-radius: 50%;" />
 
 </div>
