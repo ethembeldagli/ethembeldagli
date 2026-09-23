@@ -6,7 +6,7 @@
 
 # Hi 👋, I'm Ethem Beldagli
 
-### A passionate developer from Cambridge
+### A  developer from Cambridge
 
 ### Also started making minecraft mods. 
 
