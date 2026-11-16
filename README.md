@@ -9,7 +9,13 @@
 
 <br/>
 
-<a href="https://steambrew.app"><img src="./assets/h-steam.png" width="100%" alt="01 — Steam themes for Millennium" /></a>
+<a href="https://vctr-design.uk"><img src="./assets/h-vctr.png" width="100%" alt="01 — VCTR Design" /></a>
+
+<a href="https://vctr-design.uk"><img src="./assets/card-vctr.png" width="100%" alt="VCTR Design — web design and development studio, vctr-design.uk" /></a>
+
+<br/>
+
+<a href="https://steambrew.app"><img src="./assets/h-steam.png" width="100%" alt="02 — Steam themes for Millennium" /></a>
 
 <p align="center">
   <a href="https://github.com/ethembeldagli/steam-chroma"><img src="./assets/card-chroma.png" width="49%" alt="Chroma" /></a>
@@ -22,7 +28,7 @@
 
 <br/>
 
-<img src="./assets/h-terminal.png" width="100%" alt="02 — Terminal" />
+<img src="./assets/h-terminal.png" width="100%" alt="03 — Terminal" />
 
 <p align="center">
   <a href="https://github.com/ethembeldagli/roastfetch"><img src="./assets/card-roastfetch.png" width="49%" alt="roastfetch" /></a>
@@ -31,7 +37,7 @@
 
 <br/>
 
-<img src="./assets/h-web.png" width="100%" alt="03 — Web" />
+<img src="./assets/h-web.png" width="100%" alt="04 — Web" />
 
 <p align="center">
   <a href="https://github.com/ethembeldagli/fmhy-desktop"><img src="./assets/card-fmhy.png" width="49%" alt="fmhy-desktop" /></a>
