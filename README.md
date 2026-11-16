@@ -41,11 +41,11 @@
 
 <img src="./assets/h-web.png" width="100%" alt="04 — Web" />
 
+<a href="https://github.com/ethembeldagli/yt-longs"><img src="./assets/card-ytlongs.png" width="100%" alt="yt-longs — YouTube videos, scrolled like Shorts" /></a>
+
 <p align="center">
-  <a href="https://github.com/ethembeldagli/yt-longs"><img src="./assets/card-ytlongs.png" width="49%" alt="yt-longs" /></a>
   <a href="https://github.com/ethembeldagli/fmhy-desktop"><img src="./assets/card-fmhy.png" width="49%" alt="fmhy-desktop" /></a>
   <a href="https://github.com/ethembeldagli/nicestartpage"><img src="./assets/card-startpage.png" width="49%" alt="nicestartpage" /></a>
-  <a href="https://github.com/ethembeldagli/ASCII-rain"><img src="./assets/card-ascii.png" width="49%" alt="ASCII-rain" /></a>
 </p>
 
 <br/>
