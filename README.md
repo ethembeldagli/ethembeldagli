@@ -15,7 +15,9 @@
 
 <br/>
 
-<a href="https://steambrew.app"><img src="./assets/h-steam.png" width="100%" alt="02 — Steam themes for Millennium" /></a>
+<a href="https://quartet.ethembeldagli.dev"><img src="./assets/h-steam.png" width="100%" alt="02 — Quartet: five Steam themes" /></a>
+
+<a href="https://quartet.ethembeldagli.dev"><img src="./assets/card-quartet.png" width="100%" alt="Quartet — five complete themes for Steam" /></a>
 
 <p align="center">
   <a href="https://github.com/ethembeldagli/steam-chroma"><img src="./assets/card-chroma.png" width="49%" alt="Chroma" /></a>
@@ -40,11 +42,17 @@
 <img src="./assets/h-web.png" width="100%" alt="04 — Web" />
 
 <p align="center">
+  <a href="https://github.com/ethembeldagli/yt-longs"><img src="./assets/card-ytlongs.png" width="49%" alt="yt-longs" /></a>
   <a href="https://github.com/ethembeldagli/fmhy-desktop"><img src="./assets/card-fmhy.png" width="49%" alt="fmhy-desktop" /></a>
   <a href="https://github.com/ethembeldagli/nicestartpage"><img src="./assets/card-startpage.png" width="49%" alt="nicestartpage" /></a>
-  <a href="https://github.com/ethembeldagli/elasticcursoreffects"><img src="./assets/card-cursor.png" width="49%" alt="elasticcursoreffects" /></a>
   <a href="https://github.com/ethembeldagli/ASCII-rain"><img src="./assets/card-ascii.png" width="49%" alt="ASCII-rain" /></a>
 </p>
+
+<br/>
+
+<a href="https://kebabos.me"><img src="./assets/h-kebab.png" width="100%" alt="05 — kebab-os" /></a>
+
+<a href="https://github.com/kebab-os"><img src="./assets/card-kebab.png" width="100%" alt="kebab-os — an operating system in Python" /></a>
 
 <br/>
 
