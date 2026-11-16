@@ -1,9 +1,9 @@
-<a href="https://github.com/ethembeldagli"><img src="./assets/hero.gif" width="100%" alt="Ethem Beldagli — web developer, Cambridge UK" /></a>
+<a href="https://ethembeldagli.dev"><img src="./assets/hero.webp" width="100%" alt="Ethem Beldagli — independent designer and developer. Websites, apps and tools." /></a>
 
-<img src="./assets/intro.png" width="100%" alt="I make websites that look very good — and theme Steam on the side." />
+<img src="./assets/intro.png" width="100%" alt="I'm Ethem. I make whole products: the design, the code, the servers and the release button." />
 
 <p align="center">
-  <a href="https://github.com/ethembeldagli/ethembeldagli/issues/new?title=Website%20enquiry"><img src="./assets/btn-hire.png" width="49%" alt="Hire me for a website" /></a>
+  <a href="https://ethembeldagli.dev"><img src="./assets/btn-site.png" width="49%" alt="ethembeldagli.dev" /></a>
   <a href="https://github.com/ethembeldagli?tab=repositories"><img src="./assets/btn-repos.png" width="49%" alt="All repositories" /></a>
 </p>
 
@@ -48,5 +48,4 @@
 
 <br/>
 
-<img src="./assets/footer.png" width="100%" alt="Built with HTML, CSS, JavaScript, TypeScript, Python, Shell" />
-<img src="./assets/wave.gif" width="100%" alt="" />
+<a href="https://ethembeldagli.dev"><img src="./assets/footer.png" width="100%" alt="Built with HTML, CSS, JavaScript, TypeScript, Python, Shell — ethembeldagli.dev" /></a>
