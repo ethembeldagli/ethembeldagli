@@ -1,40 +1,36 @@
-<div align="center">
-  <img src="https://8upload.com/image/301bc77f5548c304/github-header-banner.png" alt="Profile Banner" width="100%" />
+<img src="./assets/hero.svg" width="100%" alt="Ethem Beldagli — web developer, Cambridge UK" />
 
+<br/>
 
-<div align="center">
+> I make websites that look *very* good — and when I'm not doing that, I'm theming Steam and building terminal toys.
 
-# Hi 👋, I'm Ethem Beldagli
+<br/>
 
-### A  developer from Cambridge
+### ◐ Steam themes for [Millennium](https://steambrew.app)
 
-### Also started making minecraft mods. 
+| Theme | Vibe |
+|:--|:--|
+| [**steam-chroma**](https://github.com/ethembeldagli/steam-chroma) | Recolours itself to match the game you're playing |
+| [**steam-aurora**](https://github.com/ethembeldagli/steam-aurora) | Floating violet glass |
+| [**steam-ember**](https://github.com/ethembeldagli/steam-ember) | Warm and cinematic |
+| [**steam-paper**](https://github.com/ethembeldagli/steam-paper) | Light, editorial |
+| [**steam-monolith**](https://github.com/ethembeldagli/steam-monolith) | Brutalist terminal |
 
-<img src="https://github.com/ethembeldagli.png" alt="Ethem Beldagli" width="150" height="150" style="border-radius: 50%;" />
+Plus [**millennium-bazzite**](https://github.com/ethembeldagli/millennium-bazzite), an unofficial installer that gets Millennium running on Bazzite.
 
-</div>
+### ▲ Terminal
 
-![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fethembeldagli&label=Profile+Views&icon=github&color=%23fff&message=&style=for-the-badge&tz=Turkey)
+- [**roastfetch**](https://github.com/ethembeldagli/roastfetch) — a system fetch tool that roasts your setup
+- [**termwrapped**](https://github.com/ethembeldagli/termwrapped) — your year in the terminal, Wrapped-style, with a share card
 
-# 💻 Tech Stack:
-   
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Tampermonkey](https://img.shields.io/badge/tampermonkey-%2300485B.svg?style=for-the-badge&logo=tampermonkey&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+### ◆ Web
 
-# 📊 GitHub Stats:
-  
-![](https://github-readme-stats.vercel.app/api?username=ethembeldagli&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ethembeldagli&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ethembeldagli&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<div align="center">
+- [**fmhy-desktop**](https://github.com/ethembeldagli/fmhy-desktop) — unofficial FMHY desktop client
+- [**nicestartpage**](https://github.com/ethembeldagli/nicestartpage) — a browser start page that's actually nice
+- [**elasticcursoreffects**](https://github.com/ethembeldagli/elasticcursoreffects) · [**ASCII-rain**](https://github.com/ethembeldagli/ASCII-rain) · [**pointlessprojects**](https://github.com/ethembeldagli/pointlessprojects) — small experiments
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ethembeldagli&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
----
-[![](https://visitcount.itsvg.in/api?id=ethembeldagli&icon=0&color=0)](https://visitcount.itsvg.in)
-
-</div>
+<sub>Written in HTML · CSS · JavaScript · TypeScript · Python · Shell — from Cambridge, UK.</sub>
+<br/>
+<sub>Need a website that stands out? Open an issue or reach out.</sub>
