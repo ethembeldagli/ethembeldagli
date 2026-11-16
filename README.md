@@ -1,36 +1,46 @@
-<img src="./assets/hero.svg" width="100%" alt="Ethem Beldagli — web developer, Cambridge UK" />
+<a href="https://github.com/ethembeldagli"><img src="./assets/hero.gif" width="100%" alt="Ethem Beldagli — web developer, Cambridge UK" /></a>
+
+<img src="./assets/intro.png" width="100%" alt="I make websites that look very good — and theme Steam on the side." />
+
+<p align="center">
+  <a href="https://github.com/ethembeldagli/ethembeldagli/issues/new?title=Website%20enquiry"><img src="./assets/btn-hire.png" width="49%" alt="Hire me for a website" /></a>
+  <a href="https://github.com/ethembeldagli?tab=repositories"><img src="./assets/btn-repos.png" width="49%" alt="All repositories" /></a>
+</p>
 
 <br/>
 
-> I make websites that look *very* good — and when I'm not doing that, I'm theming Steam and building terminal toys.
+<a href="https://steambrew.app"><img src="./assets/h-steam.png" width="100%" alt="01 — Steam themes for Millennium" /></a>
+
+<p align="center">
+  <a href="https://github.com/ethembeldagli/steam-chroma"><img src="./assets/card-chroma.png" width="49%" alt="Chroma" /></a>
+  <a href="https://github.com/ethembeldagli/steam-aurora"><img src="./assets/card-aurora.png" width="49%" alt="Aurora" /></a>
+  <a href="https://github.com/ethembeldagli/steam-ember"><img src="./assets/card-ember.png" width="49%" alt="Ember" /></a>
+  <a href="https://github.com/ethembeldagli/steam-paper"><img src="./assets/card-paper.png" width="49%" alt="Paper" /></a>
+  <a href="https://github.com/ethembeldagli/steam-monolith"><img src="./assets/card-monolith.png" width="49%" alt="Monolith" /></a>
+  <a href="https://github.com/ethembeldagli/millennium-bazzite"><img src="./assets/card-bazzite.png" width="49%" alt="millennium-bazzite" /></a>
+</p>
 
 <br/>
 
-### ◐ Steam themes for [Millennium](https://steambrew.app)
+<img src="./assets/h-terminal.png" width="100%" alt="02 — Terminal" />
 
-| Theme | Vibe |
-|:--|:--|
-| [**steam-chroma**](https://github.com/ethembeldagli/steam-chroma) | Recolours itself to match the game you're playing |
-| [**steam-aurora**](https://github.com/ethembeldagli/steam-aurora) | Floating violet glass |
-| [**steam-ember**](https://github.com/ethembeldagli/steam-ember) | Warm and cinematic |
-| [**steam-paper**](https://github.com/ethembeldagli/steam-paper) | Light, editorial |
-| [**steam-monolith**](https://github.com/ethembeldagli/steam-monolith) | Brutalist terminal |
-
-Plus [**millennium-bazzite**](https://github.com/ethembeldagli/millennium-bazzite), an unofficial installer that gets Millennium running on Bazzite.
-
-### ▲ Terminal
-
-- [**roastfetch**](https://github.com/ethembeldagli/roastfetch) — a system fetch tool that roasts your setup
-- [**termwrapped**](https://github.com/ethembeldagli/termwrapped) — your year in the terminal, Wrapped-style, with a share card
-
-### ◆ Web
-
-- [**fmhy-desktop**](https://github.com/ethembeldagli/fmhy-desktop) — unofficial FMHY desktop client
-- [**nicestartpage**](https://github.com/ethembeldagli/nicestartpage) — a browser start page that's actually nice
-- [**elasticcursoreffects**](https://github.com/ethembeldagli/elasticcursoreffects) · [**ASCII-rain**](https://github.com/ethembeldagli/ASCII-rain) · [**pointlessprojects**](https://github.com/ethembeldagli/pointlessprojects) — small experiments
+<p align="center">
+  <a href="https://github.com/ethembeldagli/roastfetch"><img src="./assets/card-roastfetch.png" width="49%" alt="roastfetch" /></a>
+  <a href="https://github.com/ethembeldagli/termwrapped"><img src="./assets/card-termwrapped.png" width="49%" alt="termwrapped" /></a>
+</p>
 
 <br/>
 
-<sub>Written in HTML · CSS · JavaScript · TypeScript · Python · Shell — from Cambridge, UK.</sub>
+<img src="./assets/h-web.png" width="100%" alt="03 — Web" />
+
+<p align="center">
+  <a href="https://github.com/ethembeldagli/fmhy-desktop"><img src="./assets/card-fmhy.png" width="49%" alt="fmhy-desktop" /></a>
+  <a href="https://github.com/ethembeldagli/nicestartpage"><img src="./assets/card-startpage.png" width="49%" alt="nicestartpage" /></a>
+  <a href="https://github.com/ethembeldagli/elasticcursoreffects"><img src="./assets/card-cursor.png" width="49%" alt="elasticcursoreffects" /></a>
+  <a href="https://github.com/ethembeldagli/ASCII-rain"><img src="./assets/card-ascii.png" width="49%" alt="ASCII-rain" /></a>
+</p>
+
 <br/>
-<sub>Need a website that stands out? Open an issue or reach out.</sub>
+
+<img src="./assets/footer.png" width="100%" alt="Built with HTML, CSS, JavaScript, TypeScript, Python, Shell" />
+<img src="./assets/wave.gif" width="100%" alt="" />
