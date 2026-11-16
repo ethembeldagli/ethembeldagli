@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440">
+  <defs>
+    <filter id="liquid" x="-30%" y="-30%" width="160%" height="160%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.006 0.009" numOctaves="2" seed="4" result="noise">
+        <animate attributeName="baseFrequency" dur="20s" values="0.006 0.009;0.009 0.005;0.006 0.009" repeatCount="indefinite"/>
+      </feTurbulence>
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="220" xChannelSelector="R" yChannelSelector="G"/>
+      <feGaussianBlur stdDeviation="22"/>
+    </filter>
+    <filter id="grain">
+      <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feComponentTransfer><feFuncA type="table" tableValues="0 0.14"/></feComponentTransfer>
+    </filter>
+    <radialGradient id="vignette" cx="50%" cy="50%" r="75%">
+      <stop offset="55%" stop-color="#000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0.85"/>
+    </radialGradient>
+    <clipPath id="frame"><rect width="1200" height="440" rx="20"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="440" fill="#050507"/>
+
+    <g filter="url(#liquid)" opacity="0.95">
+      <circle cx="280" cy="200" r="190" fill="#ff2e63">
+        <animate attributeName="cx" values="280;760;420;280" dur="16s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="200;120;300;200" dur="13s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="820" cy="260" r="210" fill="#5b2bff">
+        <animate attributeName="cx" values="820;380;980;820" dur="19s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="260;340;140;260" dur="15s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="600" cy="120" r="150" fill="#00e0ff">
+        <animate attributeName="cx" values="600;1000;200;600" dur="22s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="120;260;220;120" dur="17s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="1000" cy="380" r="120" fill="#ffb300">
+        <animate attributeName="cx" values="1000;600;1100;1000" dur="25s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <rect width="1200" height="440" fill="url(#vignette)"/>
+    <rect width="1200" height="440" filter="url(#grain)"/>
+
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#ffffff" fill-opacity="0.75" letter-spacing="2">
+      <text x="56" y="60">WEB DEVELOPER</text>
+      <text x="1144" y="60" text-anchor="end">52.2053° N — 0.1218° E</text>
+      <text x="56" y="404">CAMBRIDGE, UK</text>
+      <text x="1144" y="404" text-anchor="end">AVAILABLE FOR HIRE</text>
+    </g>
+    <circle cx="938" cy="399" r="5" fill="#3dff8c">
+      <animate attributeName="opacity" values="1;0.2;1" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+
+    <g font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="800" fill="#ffffff" letter-spacing="-6">
+      <text x="50" y="232" font-size="132">ETHEM</text>
+      <text x="50" y="352" font-size="132">BELDAGLI</text>
+    </g>
+  </g>
+</svg>
