@@ -30,11 +30,13 @@
 
 <br/>
 
-<img src="./assets/h-terminal.png?v=432126" width="100%" alt="03 — Terminal" />
+<img src="./assets/h-terminal.png?v=432448" width="100%" alt="03 — Tools" />
 
 <p align="center">
   <a href="https://github.com/ethembeldagli/roastfetch"><img src="./assets/card-roastfetch.png?v=432126" width="49%" alt="roastfetch" /></a>
   <a href="https://github.com/ethembeldagli/termwrapped"><img src="./assets/card-termwrapped.png?v=432126" width="49%" alt="termwrapped" /></a>
+  <a href="https://github.com/ethembeldagli/lcad"><img src="./assets/card-lcad.png?v=432448" width="49%" alt="LCAD — Lutris cover art downloader" /></a>
+  <a href="https://github.com/ethembeldagli/Game-Art-Generator"><img src="./assets/card-gag.png?v=432448" width="49%" alt="Game Art Generator" /></a>
 </p>
 
 <br/>
