@@ -1,4 +1,4 @@
-<a href="https://ethembeldagli.dev"><img src="./assets/hero.webp?v=9261bf5" width="100%" alt="Ethem Beldagli — independent designer and developer. Websites, apps and tools." /></a>
+<a href="https://ethembeldagli.dev"><img src="./assets/hero.webp?v=9261bf5" width="100%" alt="Ethem Beldagli — independent designer and developer. Websites, apps and tools." /></a> 
 
 <img src="./assets/intro.png?v=9261bf5" width="100%" alt="I'm Ethem. I make whole products: the design, the code, the servers and the release button." />
 
